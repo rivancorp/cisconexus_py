@@ -1,0 +1,47 @@
+Administrator
+C1sc0123
+
+Plus another 180 days.
+slmgr.vbs /rearm
+slmgr.vbs -rearm
+
+new album aNetworkEng
+Sir Rob
+net: 8
+sys: 8
+pro: 1
+von: 7, 5, 3: comEng
+nela: 1, 1, 1: ece
+harvey: 7, 8,1: IT
+mark: 1,1, 1 :IT
+nathan: 3, 5, 1: CompTech
+Chris: 1, 1, 1: Comp./
+Jon: 1, 1, 1: E.Ce.
+benjie
+
+task1: Build Network Infra.
+1. wins+r: devmgmt.msc
+           cmd:  mode
+           putty.exe = Free/Panget/yuck!
+           ncpa.cpl
+    $$$ nmap -v 10.m.1.4
+
+TASK2: Cisco Automatation and Programming:
+1. tao/Human
+2. hayup/Python
+3. App/Ansible/Chef:
+
+TASK3: HOW TO BE HAYUP SA GALING! IN cISCO.
+
+
+
+
+
+
+
+
+
+
+
+
+
